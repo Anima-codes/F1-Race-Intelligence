@@ -1,0 +1,6 @@
+{
+  "name": "Formula 1 Race Intelligence - Tableau BI Analytics Platform",
+  "description": "Comprehensive Formula 1 Race Intelligence BI platform covering 17 seasons, 6,464 race records, driver & constructor trajectories, tyre compound strategies, global circuit intelligence, broadcast infographics, and FIA DNF reliability analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
